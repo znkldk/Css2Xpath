@@ -5,7 +5,7 @@ public class main extends CssElementCombinatorPairsToXpath {
 
     public static void main(String[] args) throws CssSelectorToXPathConverterException{
         main obj = new main();
-        String csscode=".m-tab__pane--active>.m-btn-group.m-t-50>a[title='Tümünü Gör']"; //There is where you put css
+        String csscode="Put css code here"; //There is where you put css
         System.out.println(obj.testCss(csscode));//There is where you take xpath
     }
 
