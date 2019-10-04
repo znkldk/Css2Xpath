@@ -65,7 +65,7 @@ public class main extends CssElementCombinatorPairsToXpath {
     }
     public String birlestir(String cssSelector,String trimedPart){
         String trim0,trim1;
-        for (int i=0; i<=cssSelector.length()-1; i++)
+        for (int i=0; i<=cssSelector.length()-7; i++)
         {
             if (cssSelector.substring(i,i+7).contains("znkldk1")){
                         trim0=cssSelector.substring(0,i);
