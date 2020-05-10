@@ -6,4 +6,4 @@ Date: October 2nd 2019
 
 This project based on https://github.com/sam-rosenthal/java-cssSelector-to-xpath
 
-Turkish character support added
+Foreing character support added
